@@ -1,6 +1,4 @@
-* 开叫基本准则： 
-> 第一第二家开叫可以用20法则，就是大牌点加上两个最长套张数=20.但是需要有两个快速防守赢顿。13点一定要开叫，12点无A要减点，如果全是QJ的点，均型，不开，11点如果没有牌型和高花，均型牌，不开。<br/>
-第三第四家开叫可以用15法则，大牌点加黑桃长度>=15, 无局第三家可以开的很轻。原则上需要两快速防守赢顿（A， KQ）
+
 
 # ****One Minor Open****
 * 1C- 2+， 1D 4+<br/>
@@ -8,17 +6,15 @@
 > 1c-1s 2nt 3c; pass or correct, responder also can pass 2nt <br/>
 
 * [Ingerbman](https://github.com/folksbridge21/system2/wiki/Ingberman)<br/>
-> 逆叫我们用ingerbman convention  to show weak hand <br/>
-1C-1H-2D-2NT: relay to 3c，开叫方好牌可以拒绝Relay<br/>
+
 
 * Walsh 1 Diamond <br/>
-> 弱牌，5张方片4张高花，skip 1D应叫。<br/>
 
 * [XYZ and Reverse Flannery](https://github.com/folksbridge21/system2/wiki/XYZ-and-Reverse-Flannery)<br/>
 * [Inverted Minors](https://github.com/folksbridge21/system2/wiki/Inverted-Minors) <br/>
 > 1c-2c, 1D-2D, 逼局，12点以上<br/>
 
-* we play  **🤞Criss Cross Raise** for minor open <br/>
+* Criss Cross Raise <br/>
 > 1D 3C: D 4+, 9-11 invit raise for D <br/>
 > 1C 2D: C 5+, 9-11, invit raise for club <br/>
 
