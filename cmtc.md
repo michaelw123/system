@@ -20,10 +20,6 @@
 
 * [Response over takeout X](https://github.com/folksbridge21/system2/wiki/Response-Over-Opp's-takeout-double) <br/>
 
-* 对应叫人的高花应叫三张支持，开叫人拿5-4-3-1不能自然的表示另外四张套时可以加叫应叫人的高花：
-1m 1H/1S 2H/2S <br/>
-应叫人如果拿10点邀叫实力的牌，可以启动2NT问叫 （应叫人高花通常只有4张），答叫如下：<br/>
-
 > 1c-1M-2M-2NT: 记忆要点： 33433 <br/>
 > 3C = 3 card, Minimum (11 to bad 13), shortness in the lower unbid suit <br/>
 3D = 3 card, Minimum, shortness in the higher unbid suit <br/>
@@ -40,18 +36,16 @@
 
 # One Major Open <br/>
 
-* 我们用[Jacoby 2NT](https://github.com/folksbridge21/system2/wiki/Jacoby) 来表示13P+ 4张开叫高花平均/半均型的牌。<br/>
-* 我们用Reverse Bergen 表示4张开叫高花，低于12点的牌。<br/>
+* [Jacoby 2NT](https://github.com/folksbridge21/system2/wiki/Jacoby)<br/>
+* Reverse Bergen<br/>
 
 * Splinter: 应叫人跳叫单张表示4张开叫高花支持，13p+ <br/>
 
 * [Mini-splinter](https://github.com/folksbridge21/system2/wiki/Mini-Splinter) <br/>
 
-* DRURY:  <br/>
-第三第四家开叫一高花后，应叫人用drury 2c来表示有限加叫的支持，开叫人叫回原花色是低限。 <br/>
-因此， 应叫人叫2d就是自然，方片， 1S-2H,也是自然。 <br/>
+* Reverse DRURY:  <br/>
 
-* 对手插叫后见竞争部分和参考链接： [response over dbl](https://github.com/folksbridge21/system2/wiki/Response-Over-Opp's-takeout-double) <br/>
+* [response over dbl](https://github.com/folksbridge21/system2/wiki/Response-Over-Opp's-takeout-double) <br/>
 
 * [Wolff Signoff](https://github.com/folksbridge21/system2/wiki/Wolff-Signoff)<br/>
 > 1h-1s 2nt 3c; pass or correct, responder also can pass 2nt <br/>
