@@ -84,7 +84,7 @@
 * [Lebensohl after 1NT open](https://github.com/folksbridge21/system2/wiki/Lebensohl-after-1NT)<br/>
 * [Overcall over partner's 1NT open](https://github.com/folksbridge21/system2/wiki/Overcall-over-partner%E2%80%99s-1NT)<br/>
 
-* System on over 2C and X
+* System on over 2C and X, XX transfer to 2C, 2D drop.
 
 # Weak Two open
 Ogust<br/>
@@ -126,7 +126,7 @@ RKC 14/30  [RKC 答叫](https://github.com/folksbridge21/system2/wiki/RKC%E3%80%
 # Defensive Bidding
 
 * 争叫一无将被对手惩罚，用Dont约定叫逃叫：<br/>
-> 1c(1NT) X ? 2C: single suit; 2D+M, 2H: H+S, 2S: S <br/>
+> 1c(1NT) X: XX transfer to 2C, 2D drop; 2C: single suit; 2D+M, 2H: H+S, 2S: S <br/>
 Mix raise exists in defense bidding: 1c (1s) (p) 3H, spade and 8-10 P <br/>
 
 [Unusual vs. unusual inc. Michaels](https://github.com/folksbridge21/system2/wiki/Unusual-vs.-unusual-inc.-Michaels) <br/>
