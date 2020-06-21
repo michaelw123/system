@@ -59,7 +59,7 @@
 > 1M-2M-3M, 阻击性叫牌，不是邀局。<br/>
 
 # 1NT Open
-* Stayman/puppet stayman/garbage stayman ???? (only 4-4-4-1 weak hand) <br/>
+* Stayman/puppet stayman (only 4-4-4-1 weak hand) <br/>
   2C 邀叫一定有一高花<br/>
 * 低花转换：<br/>
 1. 1NT-2S：Range asking  <br/>
@@ -80,11 +80,11 @@
 > 5-5 Major slam interest, 1nt-2c-2d-4c
 
 
-参考见链接[Majors scenario analysis (including Smolen)](https://github.com/folksbridge21/system2/wiki/Majors-Scenario-Analysis-after-1NT-Opening)<br/>
+[Majors scenario analysis (including Smolen)](https://github.com/folksbridge21/system2/wiki/Majors-Scenario-Analysis-after-1NT-Opening)<br/>
 * [Lebensohl after 1NT open](https://github.com/folksbridge21/system2/wiki/Lebensohl-after-1NT)<br/>
 * [Overcall over partner's 1NT open](https://github.com/folksbridge21/system2/wiki/Overcall-over-partner%E2%80%99s-1NT)<br/>
 
-* 注意敌人争叫后系统on over 2C and X
+* System on over 2C and X
 
 # Weak Two open
 Ogust<br/>
@@ -93,7 +93,7 @@ new suit: one round forcing<br/>
 # 2NT open
 * Puppet Stayman<br/>
 * 3S: minor stayman, 3NT natural<br/>
-* 雅可比转移叫： 2NT-3D/3H 转移<br/>
+* 3D/3H ransfer <br/>
 > 开叫人不接受转移，叫新花色，是短套，叫3NT， 是3-4-3-3。应叫人弱牌可以叫4d/4h再次转移，有满贯兴趣也可以叫新花。<br/>
 > 注意搭档可能是0-4点的弱牌。<br/>
 * 德克萨斯转移叫
@@ -101,7 +101,6 @@ new suit: one round forcing<br/>
 
 
 # 2C Open
-开叫2c可以是18个半赢顿的长套牌，也可以是22点以上的均型牌。点力不够开叫2c的条件是：有三个A或者快速输顿<=2,也就是快速赢顿要大于快速输顿。<br/>
 2C-2H/2S: suit with at least 2 honors <br/>
 2C-2D: waiting <br/>
 2C-2D-2S-3C: double negative <br/>
@@ -113,8 +112,6 @@ new suit: one round forcing<br/>
 # Slam Bidding
 RKC 14/30  [RKC 答叫](https://github.com/folksbridge21/system2/wiki/RKC%E3%80%80%E6%BB%A1%E8%B4%AF%E7%AD%94%E5%8F%AB)<br/>
 [Minorwood](https://github.com/folksbridge21/system2/wiki/Minorwood)<br/>
-
-> 我们规定如果开叫人或者应叫人上限不清楚的情况下，任何一方自愿叫回四阶同意的低花，就是minorwood启动，搭档要开始回答。就是我们不打4D邀叫。 <br/>
 
 [Voidwood](https://github.com/folksbridge21/system2/wiki/Voidwood)<br/>
 [Pick a Slam](https://github.com/folksbridge21/system2/wiki/Pick-a-Slam)<br/>
@@ -128,9 +125,7 @@ RKC 14/30  [RKC 答叫](https://github.com/folksbridge21/system2/wiki/RKC%E3%80%
 
 # Defensive Bidding
 
-对1NT的开叫我们使用[Woolsey](https://github.com/folksbridge21/system2/wiki/Woolsey)争叫，注意单套牌一定要6张以上或者坚强五张套 （AKQ）。双套牌有局保证5-5。<br/>
-
-争叫一无将被对手惩罚，用Dont约定叫逃叫：<br/>
+* 争叫一无将被对手惩罚，用Dont约定叫逃叫：<br/>
 > 1c(1NT) X ? 2C: single suit; 2D+M, 2H: H+S, 2S: S <br/>
 Mix raise exists in defense bidding: 1c (1s) (p) 3H, spade and 8-10 P <br/>
 
